@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\repos\Exercicios\ExercicioContaAPagar\bin\Debug\netcoreapp3.1\ExercicioContaAPagar.exe
+C:\Users\Tiago\source\repos\Exercicios\ExercicioContaAPagar\bin\Debug\netcoreapp3.1\ExercicioContaAPagar.deps.json
+C:\Users\Tiago\source\repos\Exercicios\ExercicioContaAPagar\bin\Debug\netcoreapp3.1\ExercicioContaAPagar.runtimeconfig.json
+C:\Users\Tiago\source\repos\Exercicios\ExercicioContaAPagar\bin\Debug\netcoreapp3.1\ExercicioContaAPagar.runtimeconfig.dev.json
+C:\Users\Tiago\source\repos\Exercicios\ExercicioContaAPagar\bin\Debug\netcoreapp3.1\ExercicioContaAPagar.dll
+C:\Users\Tiago\source\repos\Exercicios\ExercicioContaAPagar\bin\Debug\netcoreapp3.1\ExercicioContaAPagar.pdb
+C:\Users\Tiago\source\repos\Exercicios\ExercicioContaAPagar\obj\Debug\netcoreapp3.1\ExercicioContaAPagar.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\Exercicios\ExercicioContaAPagar\obj\Debug\netcoreapp3.1\ExercicioContaAPagar.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\Exercicios\ExercicioContaAPagar\obj\Debug\netcoreapp3.1\ExercicioContaAPagar.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\Exercicios\ExercicioContaAPagar\obj\Debug\netcoreapp3.1\ExercicioContaAPagar.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\Exercicios\ExercicioContaAPagar\obj\Debug\netcoreapp3.1\ExercicioContaAPagar.dll
+C:\Users\Tiago\source\repos\Exercicios\ExercicioContaAPagar\obj\Debug\netcoreapp3.1\ExercicioContaAPagar.pdb
+C:\Users\Tiago\source\repos\Exercicios\ExercicioContaAPagar\obj\Debug\netcoreapp3.1\ExercicioContaAPagar.genruntimeconfig.cache
