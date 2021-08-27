@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\repos\Exercicios\ExercicioSenha\bin\Debug\netcoreapp3.1\ExercicioSenha.exe
+C:\Users\Tiago\source\repos\Exercicios\ExercicioSenha\bin\Debug\netcoreapp3.1\ExercicioSenha.deps.json
+C:\Users\Tiago\source\repos\Exercicios\ExercicioSenha\bin\Debug\netcoreapp3.1\ExercicioSenha.runtimeconfig.json
+C:\Users\Tiago\source\repos\Exercicios\ExercicioSenha\bin\Debug\netcoreapp3.1\ExercicioSenha.runtimeconfig.dev.json
+C:\Users\Tiago\source\repos\Exercicios\ExercicioSenha\bin\Debug\netcoreapp3.1\ExercicioSenha.dll
+C:\Users\Tiago\source\repos\Exercicios\ExercicioSenha\bin\Debug\netcoreapp3.1\ExercicioSenha.pdb
+C:\Users\Tiago\source\repos\Exercicios\ExercicioSenha\obj\Debug\netcoreapp3.1\ExercicioSenha.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\Exercicios\ExercicioSenha\obj\Debug\netcoreapp3.1\ExercicioSenha.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\Exercicios\ExercicioSenha\obj\Debug\netcoreapp3.1\ExercicioSenha.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\Exercicios\ExercicioSenha\obj\Debug\netcoreapp3.1\ExercicioSenha.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\Exercicios\ExercicioSenha\obj\Debug\netcoreapp3.1\ExercicioSenha.dll
+C:\Users\Tiago\source\repos\Exercicios\ExercicioSenha\obj\Debug\netcoreapp3.1\ExercicioSenha.pdb
+C:\Users\Tiago\source\repos\Exercicios\ExercicioSenha\obj\Debug\netcoreapp3.1\ExercicioSenha.genruntimeconfig.cache
