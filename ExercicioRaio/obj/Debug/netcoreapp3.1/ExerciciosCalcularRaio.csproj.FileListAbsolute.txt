@@ -1,0 +1,13 @@
+C:\Users\Tiago\source\repos\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\ExerciciosCalcularRaio.exe
+C:\Users\Tiago\source\repos\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\ExerciciosCalcularRaio.deps.json
+C:\Users\Tiago\source\repos\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\ExerciciosCalcularRaio.runtimeconfig.json
+C:\Users\Tiago\source\repos\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\ExerciciosCalcularRaio.runtimeconfig.dev.json
+C:\Users\Tiago\source\repos\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\ExerciciosCalcularRaio.dll
+C:\Users\Tiago\source\repos\Exercicios\Exercicios\bin\Debug\netcoreapp3.1\ExerciciosCalcularRaio.pdb
+C:\Users\Tiago\source\repos\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\ExerciciosCalcularRaio.csproj.AssemblyReference.cache
+C:\Users\Tiago\source\repos\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\ExerciciosCalcularRaio.AssemblyInfoInputs.cache
+C:\Users\Tiago\source\repos\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\ExerciciosCalcularRaio.AssemblyInfo.cs
+C:\Users\Tiago\source\repos\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\ExerciciosCalcularRaio.csproj.CoreCompileInputs.cache
+C:\Users\Tiago\source\repos\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\ExerciciosCalcularRaio.dll
+C:\Users\Tiago\source\repos\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\ExerciciosCalcularRaio.pdb
+C:\Users\Tiago\source\repos\Exercicios\Exercicios\obj\Debug\netcoreapp3.1\ExerciciosCalcularRaio.genruntimeconfig.cache
